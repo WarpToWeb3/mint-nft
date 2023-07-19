@@ -1,12 +1,17 @@
-## Demo
+<h1 align = "center">
+  <a href="https://mint-nft-fawn.vercel.app/"> NFT Mint Website </a> ⛓
+</h1>
 
-[https://makeswift-examples-thirdweb.vercel.app/](https://makeswift-examples-thirdweb.vercel.app/)
+![image](https://github.com/Harshkumar62367/mint-nft/assets/72465090/fc94276a-8291-4cb6-bc7c-d47c7cd8d0d4)
 
-# Visually build with Thirdweb components
 
-In this example, you'll learn how to integrate thirdweb components from your Next.js app into [Makeswift](https://www.makeswift.com) to make it visually editable.
 
-## Tools
+
+# Build with Thirdweb components and Makeswift
+
+In this site, we've integrated thirdweb components from our Next.js app into [Makeswift](https://www.makeswift.com) to make it visually editable.
+
+## Tools used
 
 - [**React SDK**](https://docs.thirdweb.com/react): to enable users to connect their wallets with the [useMetamask](https://portal.thirdweb.com/react/react.usemetamask) hook, and access hooks such as [useNFTDrop](https://portal.thirdweb.com/react/react.usenftdrop) to interact with the NFT drop contract.
 - [**TypeScript SDK**](https://docs.thirdweb.com/typescript): to view the claimed supply, total supply, and mint NFTs from the drop.
@@ -14,17 +19,13 @@ In this example, you'll learn how to integrate thirdweb components from your Nex
 
 ---
 
-## Using this example
+### You can also deploy your own NFT mint website to Vercel by clicking below button
 
-To quickly try this example either [deploy to Vercel](#deploy-your-own-to-vercel) or [use our CLI](#use-this-example-locally-with-the-makeswift-cli).
-
-### Deploy your own to Vercel
-
-Deploy your own with Vercel
+Deploy your own NFT mint site with Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmakeswift%2Fmakeswift%2Ftree%2Fmain%2Fexamples%2Fthirdweb&project-name=makeswift-thirdweb-example&repo-name=makeswift-thirdweb-example&redirect-url=https%3A%2F%2Fapp.makeswift.com&integration-ids=oac_51ryd7Pob5ZsyTFzNzVvpsGq&external-id=ecommerce-thirdweb)
 
-With your deployment completed, [take a tour of the newly created store](#take-a-tour-of-your-web3-website)
+
 
 ### Use this example locally with the Makeswift CLI
 
@@ -46,17 +47,13 @@ After integration, you will be redirected to app.makeswift.com. You can see the 
 
 With the NFT drop component selected, paste your NFT drop contract address from Thirdweb into the "Contract address" panel and select the correct chain.
 
-> If you don't have an NFT drop contract, [read this guide](https://portal.thirdweb.com/guides/release-an-nft-drop-with-no-code#create-a-drop-contract) to learn how to create one using Thirdweb without any code.
+> If you don't have an NFT drop contract, you can [read this guide](https://portal.thirdweb.com/guides/release-an-nft-drop-with-no-code#create-a-drop-contract) to learn how to create one using Thirdweb without any code.
 
-If you are struggling with this example reach out in our [Discord](https://discord.com/invite/7dDpz6y) and we will be happy to help!
 
 ---
 
-## Next steps
+### Links
 
-With Makeswift, you can give your marketing team hand-crafted Thirdweb building blocks to create custom Web3 websites.
-
-To learn more about Makeswift, take a look at the following resources:
 
 - [Makeswift Website](https://www.makeswift.com/)
 - [Makeswift Documentation](https://www.makeswift.com/docs/)
